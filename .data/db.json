@@ -1,0 +1,748 @@
+{
+  "jobs": [
+    {
+      "id": "b0000000-0000-0000-0000-000000000001",
+      "code": "TLT-2041",
+      "title": "Staff Full Stack Engineer (Next.js & Go)",
+      "client_label": "Series-B FinTech Unicorn (Bengaluru)",
+      "location": "Bengaluru, Karnataka",
+      "work_mode": "Hybrid",
+      "type": "Full-time",
+      "exp_min": 6,
+      "exp_max": 10,
+      "lpa_min": 35,
+      "lpa_max": 52,
+      "notice_period": "Immediate to 30 days",
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Go",
+        "PostgreSQL",
+        "Kafka",
+        "Docker"
+      ],
+      "description": "Architect and scale the core lending orchestration platform processing INR 150Cr+ monthly disbursements. High-throughput distributed architecture with sub-100ms API response SLA.",
+      "responsibilities": [
+        "Drive high-level system design and microservice boundaries in Go and Next.js",
+        "Mentor senior developers and spearhead architecture design reviews",
+        "Optimize SQL queries and Kafka streaming pipelines for high concurrency"
+      ],
+      "must_have": [
+        "6+ years fullstack engineering with deep production Go or Node.js experience",
+        "Strong frontend architectural mastery with React/Next.js and state machines",
+        "Hands-on experience with Kafka or RabbitMQ event-driven topologies"
+      ],
+      "good_to_have": [
+        "FinTech/Payments domain experience (NPCI, UPI or Core Banking integrations)",
+        "Kubernetes production cluster management experience"
+      ],
+      "interview_process": [
+        "Talenty Recruiter Technical Screening (30 mins)",
+        "System Architecture & Concurrency Deep Dive (60 mins)",
+        "Take-home Practical Pairing Session (90 mins)",
+        "Founders / Leadership Alignment (45 mins)"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-15T06:04:21.221Z",
+      "updated_at": "2026-11-15T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000002",
+      "code": "TLT-2042",
+      "title": "Senior Backend Architect (Java 21 / Spring Boot 3)",
+      "client_label": "Global SaaS Leader in Supply Chain (Hyderabad)",
+      "location": "Hyderabad, Telangana",
+      "work_mode": "Hybrid",
+      "type": "Full-time",
+      "exp_min": 8,
+      "exp_max": 12,
+      "lpa_min": 38,
+      "lpa_max": 58,
+      "notice_period": "30 to 45 days",
+      "skills": [
+        "Java 21",
+        "Spring Boot 3",
+        "Microservices",
+        "Distributed Systems",
+        "AWS",
+        "Redis",
+        "PostgreSQL"
+      ],
+      "description": "Spearhead multi-tenant enterprise logistics platform backend servicing Fortune 500 retailers across North America and Europe. High focus on fault-tolerant caching and zero-downtime migrations.",
+      "responsibilities": [
+        "Own microservice architecture and domain-driven design (DDD)",
+        "Define strict latency and fault-tolerance boundaries with Circuit Breakers",
+        "Guide database sharding and index strategy on Amazon RDS PostgreSQL"
+      ],
+      "must_have": [
+        "8+ years in enterprise Java with deep modern Spring Boot 3 & Virtual Threads expertise",
+        "Proven experience designing systems handling 50k+ QPS with p99 < 50ms",
+        "Strong understanding of ACID guarantees and distributed transactions"
+      ],
+      "good_to_have": [
+        "Experience with AWS DynamoDB or Cassandra",
+        "Prior work in supply chain or fleet telematics"
+      ],
+      "interview_process": [
+        "Talenty Recruiter Evaluation",
+        "Low Level Design & Concurrency Coding",
+        "High Level System Design",
+        "CTO Discussion"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-13T06:04:21.222Z",
+      "updated_at": "2026-11-13T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000003",
+      "code": "TLT-2043",
+      "title": "Lead DevOps & Cloud Platform Engineer",
+      "client_label": "HealthTech Pioneer (Gurugram / Remote)",
+      "location": "Gurugram / Remote",
+      "work_mode": "Remote",
+      "type": "Full-time",
+      "exp_min": 5,
+      "exp_max": 9,
+      "lpa_min": 28,
+      "lpa_max": 42,
+      "notice_period": "Immediate or Serving Notice",
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "ArgoCD",
+        "Prometheus",
+        "Datadog",
+        "Security Compliance"
+      ],
+      "description": "Own multi-region AWS cloud infrastructure, zero-trust network boundaries, GitOps deployment pipelines, and HIPAA/SOC2 continuous compliance automation.",
+      "responsibilities": [
+        "Maintain multi-tenant EKS clusters with Terraform IaC",
+        "Build self-healing CI/CD pipelines using GitHub Actions and ArgoCD",
+        "Configure Datadog APM, Prometheus alerts, and incident response playbooks"
+      ],
+      "must_have": [
+        "5+ years in production DevOps on AWS with EKS",
+        "Deep Terraform module authoring expertise",
+        "Security hardening, secret management (Vault), and compliance audits"
+      ],
+      "good_to_have": [
+        "CKA / CKS certification",
+        "Cost optimization in AWS compute & egress"
+      ],
+      "interview_process": [
+        "Recruiter Screening (20 mins)",
+        "Live Terraform & Kubernetes Debugging (60 mins)",
+        "Infrastructure Architecture Review (45 mins)",
+        "Offer Negotiation & Culture Fit"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-11T06:04:21.222Z",
+      "updated_at": "2026-11-11T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000004",
+      "code": "TLT-2044",
+      "title": "Principal Data Engineer (PySpark & Databricks)",
+      "client_label": "Top Tier E-Commerce Enterprise (Bengaluru)",
+      "location": "Bengaluru, Karnataka",
+      "work_mode": "Hybrid",
+      "type": "Full-time",
+      "exp_min": 7,
+      "exp_max": 11,
+      "lpa_min": 40,
+      "lpa_max": 60,
+      "notice_period": "Immediate to 30 days",
+      "skills": [
+        "PySpark",
+        "Databricks",
+        "Delta Lake",
+        "BigQuery",
+        "Airflow",
+        "Python",
+        "Data Modeling"
+      ],
+      "description": "Build and operate real-time streaming and medallion lakehouse data pipelines processing 8TB+ daily telemetry for customer recommendation engines and dynamic pricing algorithms.",
+      "responsibilities": [
+        "Design scalable data ingestion pipelines with Delta Lake and Spark Structured Streaming",
+        "Optimize compute costs and pipeline runtimes in Databricks clusters",
+        "Implement automated data quality checks and Great Expectations suites"
+      ],
+      "must_have": [
+        "7+ years in enterprise data engineering with heavy PySpark / Databricks usage",
+        "Deep SQL optimization, partition pruning, and Z-ordering knowledge",
+        "Hands-on orchestration with Apache Airflow or Dagster"
+      ],
+      "good_to_have": [
+        "Experience with Iceberg or ClickHouse",
+        "Machine learning feature store architecture (Feast)"
+      ],
+      "interview_process": [
+        "Talenty Tech Screen (25 mins)",
+        "Data Modeling & Complex SQL/Spark Pairing (60 mins)",
+        "System Architecture Interview (60 mins)",
+        "Director of Data Science Fit (30 mins)"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-10T06:04:21.222Z",
+      "updated_at": "2026-11-10T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000005",
+      "code": "TLT-2045",
+      "title": "Senior Frontend Engineer (React 18 / Design Systems)",
+      "client_label": "Fast-Growing B2B Workflow SaaS (Pune / Remote)",
+      "location": "Pune / Remote",
+      "work_mode": "Remote",
+      "type": "Full-time",
+      "exp_min": 4,
+      "exp_max": 8,
+      "lpa_min": 24,
+      "lpa_max": 36,
+      "notice_period": "15 to 30 days",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Next.js",
+        "Storybook",
+        "Framer Motion",
+        "Web Accessibility"
+      ],
+      "description": "Craft pixel-perfect, accessible, and ultra-fluid web applications for thousands of daily enterprise project planners. High emphasis on micro-interactions and performance budgets.",
+      "responsibilities": [
+        "Build reusable, WCAG 2.1 AA compliant UI component library in Storybook",
+        "Optimize Core Web Vitals (LCP < 1.8s, INP < 150ms, CLS 0)",
+        "Implement real-time collaboration canvas with WebSockets"
+      ],
+      "must_have": [
+        "4+ years crafting complex React/TypeScript SPAs",
+        "Deep mastery of modern CSS, Tailwind, responsive layouts, and animations",
+        "Solid grasp of AST, state management (Zustand/TanStack Query), and testing (Playwright/Jest)"
+      ],
+      "good_to_have": [
+        "Experience with Canvas API or WebGL",
+        "Prior contributions to open source UI libraries"
+      ],
+      "interview_process": [
+        "Portfolio & Code Walkthrough (30 mins)",
+        "Live React Component Architecture Session (60 mins)",
+        "Cross-functional Collaboration with Product Designers (45 mins)"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-08T06:04:21.222Z",
+      "updated_at": "2026-11-08T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000006",
+      "code": "TLT-2046",
+      "title": "Lead QA Automation Engineer (Playwright & Performance)",
+      "client_label": "FinTech Neobank (Mumbai)",
+      "location": "Mumbai, Maharashtra",
+      "work_mode": "Hybrid",
+      "type": "Full-time",
+      "exp_min": 5,
+      "exp_max": 9,
+      "lpa_min": 22,
+      "lpa_max": 34,
+      "notice_period": "Immediate to 30 days",
+      "skills": [
+        "Playwright",
+        "TypeScript",
+        "Cypress",
+        "k6",
+        "API Testing",
+        "CI/CD Pipelines",
+        "JMeter"
+      ],
+      "description": "Lead the quality assurance charter for high-stakes payment flows. Design test automation frameworks and conduct chaos/load testing before banking product releases.",
+      "responsibilities": [
+        "Architect end-to-end regression frameworks in Playwright with TypeScript",
+        "Build automated performance test scripts using k6 integrated in GitHub Actions",
+        "Champion test pyramid best practices across 4 engineering squads"
+      ],
+      "must_have": [
+        "5+ years in automated web and API testing",
+        "Production expertise with TypeScript and Playwright",
+        "Load testing and API contract testing (Pact / Postman Newman)"
+      ],
+      "good_to_have": [
+        "Mobile automation using Appium or Maestro",
+        "Payment gateway testing experience"
+      ],
+      "interview_process": [
+        "Recruiter Screening",
+        "Automation Framework Live Coding",
+        "QA Strategy & Chaos Scenarios",
+        "Engineering Manager Chat"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-07T06:04:21.222Z",
+      "updated_at": "2026-11-07T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000007",
+      "code": "TLT-2047",
+      "title": "AI/ML Systems Engineer (LLM Agents & RAG)",
+      "client_label": "GenAI Automation Enterprise (Bengaluru)",
+      "location": "Bengaluru, Karnataka",
+      "work_mode": "On-site",
+      "type": "Full-time",
+      "exp_min": 3,
+      "exp_max": 7,
+      "lpa_min": 32,
+      "lpa_max": 48,
+      "notice_period": "Immediate to 15 days",
+      "skills": [
+        "Python",
+        "LangChain",
+        "LlamaIndex",
+        "vLLM",
+        "Vector DBs",
+        "FastAPI",
+        "PyTorch"
+      ],
+      "description": "Deploy production-ready LLM agents, dynamic retrieval-augmented generation pipelines, and evaluation harnesses for automated document analysis and legal contracts.",
+      "responsibilities": [
+        "Design low-latency RAG architectures with hybrid search (BM25 + Dense embeddings)",
+        "Serve fine-tuned open-source models using vLLM and TensorRT-LLM",
+        "Establish continuous evaluation benchmarks using Ragas and TruLens"
+      ],
+      "must_have": [
+        "3+ years in production Python engineering with at least 1.5+ years building GenAI systems",
+        "Experience with Milvus, Qdrant, or Pinecone in production",
+        "Deep understanding of prompt engineering, token economy, and hallucination reduction"
+      ],
+      "good_to_have": [
+        "Experience with model quantization (AWQ, GGUF)",
+        "Fine-tuning with LoRA/QLoRA on GPU clusters"
+      ],
+      "interview_process": [
+        "Technical Recruiter Alignment",
+        "System Design: Production RAG Pipeline",
+        "Live Machine Learning Code Challenge",
+        "Founder Interview"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-06T06:04:21.222Z",
+      "updated_at": "2026-11-06T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000008",
+      "code": "TLT-2048",
+      "title": "Senior iOS Engineer (Swift & SwiftUI)",
+      "client_label": "Direct-to-Consumer Quick Commerce (Gurugram)",
+      "location": "Gurugram, Haryana",
+      "work_mode": "Hybrid",
+      "type": "Full-time",
+      "exp_min": 4,
+      "exp_max": 8,
+      "lpa_min": 26,
+      "lpa_max": 38,
+      "notice_period": "Immediate to 30 days",
+      "skills": [
+        "Swift",
+        "SwiftUI",
+        "Combine",
+        "Core Data",
+        "MapKit",
+        "Unit Testing",
+        "App Store Deployments"
+      ],
+      "description": "Build lightning-fast iOS consumer experience serving 500k+ daily delivery orders. Real-time order tracking, live activities, and buttery 120Hz ProMotion user interfaces.",
+      "responsibilities": [
+        "Architect high-performance consumer app in Swift and SwiftUI",
+        "Implement Apple Live Activities and Dynamic Island order widgets",
+        "Optimize memory footprints, cold launch times (< 1.2s), and network caching"
+      ],
+      "must_have": [
+        "4+ years native iOS development with production apps published on App Store",
+        "Mastery of Swift concurrency (async/await, actors) and Combine",
+        "Solid unit and UI testing discipline"
+      ],
+      "good_to_have": [
+        "Experience with Core Location and MapKit route rendering",
+        "GraphQL client experience (Apollo iOS)"
+      ],
+      "interview_process": [
+        "Recruiter Screening (20 mins)",
+        "iOS Architecture & Concurrency Pairing (60 mins)",
+        "App Performance Walkthrough (45 mins)",
+        "Final Culture Discussion (30 mins)"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-04T06:04:21.222Z",
+      "updated_at": "2026-11-04T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000009",
+      "code": "TLT-2049",
+      "title": "Staff Security Engineer (AppSec & Cloud Defense)",
+      "client_label": "Global WealthTech Firm (Hyderabad / Hybrid)",
+      "location": "Hyderabad, Telangana",
+      "work_mode": "Hybrid",
+      "type": "Full-time",
+      "exp_min": 7,
+      "exp_max": 12,
+      "lpa_min": 42,
+      "lpa_max": 65,
+      "notice_period": "30 to 60 days",
+      "skills": [
+        "Application Security",
+        "Threat Modeling",
+        "DAST/SAST",
+        "Cloud Security",
+        "OWASP Top 10",
+        "Penetration Testing"
+      ],
+      "description": "Lead security architecture, threat modeling for multi-tenant microservices, vulnerability management, and red team/blue team drills for enterprise wealth management software.",
+      "responsibilities": [
+        "Perform thorough architecture reviews and threat modeling for financial features",
+        "Embed automated SAST/DAST/SCA security checks into developer pipelines",
+        "Conduct internal penetration tests and coordinate third-party bug bounty programs"
+      ],
+      "must_have": [
+        "7+ years in application and cloud infrastructure security",
+        "Deep knowledge of web security fundamentals, cryptographic protocols, and identity standards (OIDC, SAML)",
+        "Certifications such as CISSP, OSCP, or AWS Security Specialty"
+      ],
+      "good_to_have": [
+        "Experience with SOC 2 Type II, ISO 27001 audits",
+        "Python/Go scripting for automated security remediation"
+      ],
+      "interview_process": [
+        "Talenty Tech Screen",
+        "Threat Modeling Live Scenario",
+        "Application Security Deep Dive",
+        "CISO Alignment"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-11-03T06:04:21.222Z",
+      "updated_at": "2026-11-03T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000010",
+      "code": "TLT-2050",
+      "title": "Contract Senior Golang Microservices Specialist",
+      "client_label": "Logistics Scaleup (Remote, India)",
+      "location": "Remote (India)",
+      "work_mode": "Remote",
+      "type": "Contract",
+      "exp_min": 5,
+      "exp_max": 9,
+      "lpa_min": 24,
+      "lpa_max": 36,
+      "notice_period": "Immediate (Available in 7 days)",
+      "skills": [
+        "Go",
+        "gRPC",
+        "Protobuf",
+        "PostgreSQL",
+        "Docker",
+        "Redis",
+        "RabbitMQ"
+      ],
+      "description": "6-month high-impact contract with extension potential. Refactor critical dispatch routing service to gRPC microservices and optimize memory leaks under high peak load.",
+      "responsibilities": [
+        "Deconstruct legacy monolithic routing services into decoupled Go microservices",
+        "Write ultra-performant gRPC endpoints with automated protobuf generation",
+        "Execute benchmark profiling with pprof and optimize memory footprint"
+      ],
+      "must_have": [
+        "5+ years in software engineering with 3+ years heavy Go in production",
+        "Deep knowledge of goroutines, channels, sync primitives, and race condition detection",
+        "Production experience with gRPC and PostgreSQL transactions"
+      ],
+      "good_to_have": [
+        "Experience with Redis cluster pub/sub",
+        "Immediate availability"
+      ],
+      "interview_process": [
+        "Talenty Fast-Track Screening (20 mins)",
+        "Live Go Concurrency Coding (45 mins)",
+        "Client Tech Lead Decision (30 mins)"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-10-31T06:04:21.222Z",
+      "updated_at": "2026-10-31T06:04:21.222Z"
+    },
+    {
+      "id": "b0000000-0000-0000-0000-000000000011",
+      "code": "TLT-2051",
+      "title": "Technical Product Manager (Developer Platforms & APIs)",
+      "client_label": "Cloud Native Infrastructure Startup (Bengaluru)",
+      "location": "Bengaluru, Karnataka",
+      "work_mode": "Hybrid",
+      "type": "Full-time",
+      "exp_min": 5,
+      "exp_max": 9,
+      "lpa_min": 30,
+      "lpa_max": 45,
+      "notice_period": "15 to 30 days",
+      "skills": [
+        "API Design",
+        "Developer Experience",
+        "Product Strategy",
+        "OpenAPI",
+        "Telemetry",
+        "Agile Roadmapping"
+      ],
+      "description": "Lead product strategy for enterprise API gateways, CLI tooling, and SDKs used by 25,000+ developers globally. Drive customer discovery, specs, and telemetry metrics.",
+      "responsibilities": [
+        "Define roadmaps, PRDs, and technical specs for API products and SDKs",
+        "Collaborate deeply with principal engineers and enterprise customer CTOs",
+        "Track activation funnels, developer documentation retention, and API latency SLAs"
+      ],
+      "must_have": [
+        "5+ years overall experience with at least 3 years in Technical Product Management for developer-facing tools",
+        "Engineering background with comfort reading API docs and writing JSON specs",
+        "Proven track record taking technical products from 0 to 1"
+      ],
+      "good_to_have": [
+        "Prior software developer background",
+        "Familiarity with GraphQL, REST, and gRPC standards"
+      ],
+      "interview_process": [
+        "Screening (30 mins)",
+        "Product Sense & System Tradeoffs (60 mins)",
+        "Technical PRD Defense (60 mins)",
+        "VP of Product Fit (30 mins)"
+      ],
+      "status": "published",
+      "is_published": true,
+      "created_at": "2026-10-29T06:04:21.222Z",
+      "updated_at": "2026-10-29T06:04:21.222Z"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c0000000-0000-0000-0000-000000000001",
+      "code": "CAN-301",
+      "name": "Arjun Venkatraman",
+      "email": "arjun.v@example.com",
+      "phone": "+91 98450 12345",
+      "total_experience": 7.5,
+      "current_ctc": 24,
+      "expected_ctc": 36,
+      "notice_period": "30 days",
+      "location": "Bengaluru, Karnataka",
+      "skills": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Go",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "current_company": "Swiggy India",
+      "current_designation": "Senior Software Engineer II",
+      "resume_path": "resumes/CAN-301-Arjun-Venkatraman-Resume.pdf",
+      "resume_url": "/sample-resumes/arjun-venkatraman-cv.pdf",
+      "consent_given": true,
+      "consent_timestamp": "2026-11-18T06:04:21.222Z",
+      "tags": [
+        "Immediate Hire",
+        "Strong System Design",
+        "FinTech Background"
+      ],
+      "linked_requirements": [
+        "REQ-501"
+      ],
+      "created_at": "2026-11-14T06:04:21.222Z",
+      "updated_at": "2026-11-14T06:04:21.222Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "d0000000-0000-0000-0000-000000000001",
+      "code": "APP-1001",
+      "job_id": "b0000000-0000-0000-0000-000000000001",
+      "job_title": "Staff Full Stack Engineer (Next.js & Go)",
+      "job_code": "TLT-2041",
+      "candidate_id": "c0000000-0000-0000-0000-000000000001",
+      "name": "Arjun Venkatraman",
+      "email": "arjun.v@example.com",
+      "phone": "+91 98450 12345",
+      "total_experience": 7.5,
+      "current_ctc": 24,
+      "expected_ctc": 36,
+      "notice_period": "30 days",
+      "resume_path": "resumes/CAN-301-Arjun-Venkatraman-Resume.pdf",
+      "resume_url": "/sample-resumes/arjun-venkatraman-cv.pdf",
+      "resume_filename": "Arjun_Venkatraman_Fullstack_Lead.pdf",
+      "status": "Screening",
+      "created_at": "2026-11-16T06:04:21.222Z",
+      "updated_at": "2026-11-17T06:04:21.222Z"
+    },
+    {
+      "id": "d0000000-0000-0000-0000-000000000002",
+      "code": "APP-1002",
+      "job_id": "b0000000-0000-0000-0000-000000000003",
+      "job_title": "Lead DevOps & Cloud Platform Engineer",
+      "job_code": "TLT-2043",
+      "name": "Deepika Sundaram",
+      "email": "deepika.s@example.com",
+      "phone": "+91 98765 43210",
+      "total_experience": 6,
+      "current_ctc": 20,
+      "expected_ctc": 32,
+      "notice_period": "Immediate (Serving Notice)",
+      "resume_path": "resumes/APP-1002-Deepika-Sundaram.pdf",
+      "resume_url": "/sample-resumes/deepika-sundaram-cv.pdf",
+      "resume_filename": "Deepika_Sundaram_DevOps_AWS.pdf",
+      "status": "Submitted to client",
+      "created_at": "2026-11-15T06:04:21.222Z",
+      "updated_at": "2026-11-16T06:04:21.222Z"
+    },
+    {
+      "id": "d0000000-0000-0000-0000-000000000003",
+      "code": "APP-1003",
+      "job_id": "b0000000-0000-0000-0000-000000000005",
+      "job_title": "Senior Frontend Engineer (React 18 / Design Systems)",
+      "job_code": "TLT-2045",
+      "name": "Rohan Mehta",
+      "email": "rohan.m@example.com",
+      "phone": "+91 98200 98765",
+      "total_experience": 5.2,
+      "current_ctc": 18.5,
+      "expected_ctc": 28,
+      "notice_period": "15 days",
+      "resume_path": "resumes/APP-1003-Rohan-Mehta.pdf",
+      "resume_url": "/sample-resumes/rohan-mehta-cv.pdf",
+      "resume_filename": "Rohan_Mehta_Staff_Frontend.pdf",
+      "status": "Interview",
+      "created_at": "2026-11-13T06:04:21.222Z",
+      "updated_at": "2026-11-15T06:04:21.222Z"
+    }
+  ],
+  "requirements": [
+    {
+      "id": "e0000000-0000-0000-0000-000000000001",
+      "code": "REQ-501",
+      "company_name": "Nexura Capital Technologies",
+      "contact_person": "Anand Deshmukh (VP of Engineering)",
+      "work_email": "anand.d@nexuracapital.com",
+      "phone": "+91 99110 55443",
+      "roles_needed": "Staff Go Engineer & Senior DevOps Specialist",
+      "headcount": 3,
+      "key_skills": [
+        "Go",
+        "Kafka",
+        "Kubernetes",
+        "PostgreSQL"
+      ],
+      "exp_min": 6,
+      "exp_max": 10,
+      "budget_lpa_min": 35,
+      "budget_lpa_max": 50,
+      "engagement_model": "Permanent",
+      "urgency": "Immediate (<15 days)",
+      "notes": "Urgent expansion for our payment gateway team. Need candidates with high-volume transactional experience. Ready to roll offers within 48 hours of final round.",
+      "status": "Sourcing",
+      "created_at": "2026-11-12T06:04:21.222Z",
+      "updated_at": "2026-11-16T06:04:21.222Z"
+    }
+  ],
+  "placements": [
+    {
+      "id": "f0000000-0000-0000-0000-000000000001",
+      "code": "PLC-101",
+      "application_id": "d0000000-0000-0000-0000-000000000001",
+      "requirement_id": "e0000000-0000-0000-0000-000000000001",
+      "client_name": "Nexura Capital Technologies",
+      "candidate_name": "Arjun Venkatraman",
+      "role_title": "Staff Full Stack Engineer",
+      "annual_ctc": 36,
+      "commission_percentage": 8.33,
+      "commission_amount": 2.9988,
+      "invoice_status": "Invoiced",
+      "invoice_date": "2026-11-08",
+      "joining_date": "2026-12-08",
+      "replacement_guarantee_end_date": "2027-03-08",
+      "notes": "Candidate accepted offer letter. 90-day replacement guarantee active from joining date.",
+      "created_at": "2026-11-08T06:04:21.222Z",
+      "updated_at": "2026-11-08T06:04:21.222Z"
+    },
+    {
+      "id": "f0000000-0000-0000-0000-000000000002",
+      "code": "PLC-102",
+      "client_name": "Global SaaS Leader in Supply Chain",
+      "candidate_name": "Sneha Kulkarni",
+      "role_title": "Principal Data Architect",
+      "annual_ctc": 48,
+      "commission_percentage": 8.33,
+      "commission_amount": 3.9984,
+      "invoice_status": "Paid",
+      "invoice_date": "2026-10-04",
+      "joining_date": "2026-10-19",
+      "replacement_guarantee_end_date": "2027-01-17",
+      "notes": "Invoice settled in full. Replacement guarantee active until day 90.",
+      "created_at": "2026-10-04T06:04:21.222Z",
+      "updated_at": "2026-10-29T06:04:21.222Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": "n0000000-0000-0000-0000-000000000001",
+      "entity_type": "application",
+      "entity_id": "d0000000-0000-0000-0000-000000000001",
+      "author_name": "Vikramaditya Rao",
+      "text": "Candidate demonstrated exceptional clarity on Kafka partition keys and distributed tracing during initial phone screening. Highly recommended for client round.",
+      "created_at": "2026-11-16T06:04:21.222Z"
+    },
+    {
+      "id": "n0000000-0000-0000-0000-000000000002",
+      "entity_type": "requirement",
+      "entity_id": "e0000000-0000-0000-0000-000000000001",
+      "author_name": "Priya Nair",
+      "text": "Met with Anand Deshmukh. Client has fast-tracked rounds: only 2 rounds before offer. Ideal candidate should have notice period <= 30 days.",
+      "created_at": "2026-11-13T06:04:21.223Z"
+    }
+  ],
+  "activity_logs": [
+    {
+      "id": "act-001",
+      "entity_type": "application",
+      "entity_id": "d0000000-0000-0000-0000-000000000001",
+      "action": "Status updated to Screening",
+      "performed_by": "Vikramaditya Rao (Lead Recruiter)",
+      "details": {
+        "previous": "New",
+        "current": "Screening"
+      },
+      "created_at": "2026-11-17T06:04:21.223Z"
+    },
+    {
+      "id": "act-002",
+      "entity_type": "requirement",
+      "entity_id": "e0000000-0000-0000-0000-000000000001",
+      "action": "Requirement submitted by client",
+      "performed_by": "Nexura Capital Technologies",
+      "details": {
+        "headcount": 3,
+        "budget_lpa": "35-50 LPA"
+      },
+      "created_at": "2026-11-12T06:04:21.223Z"
+    }
+  ],
+  "contact_messages": [],
+  "counters": {
+    "jobs": 2052,
+    "applications": 1004,
+    "requirements": 502,
+    "candidates": 302,
+    "placements": 103
+  }
+}
